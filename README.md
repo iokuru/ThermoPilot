@@ -178,8 +178,6 @@ ThermoPilot/
 ├── pyproject.toml                     # Package metadata & build configuration
 ├── requirements.txt                   # Dependency definitions
 ├── run_simulation.py                  # CLI simulation runner
-├── docs/
-│   └── INTERVIEW_NOTES.md             # Developer portfolio & defense reference
 ├── thermopilot/
 │   ├── config.py                      # Building presets & comfort boundaries
 │   ├── physics/

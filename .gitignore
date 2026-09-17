@@ -45,3 +45,6 @@ Thumbs.db
 data/cache/
 *.parquet
 *.csv
+
+# Local docs
+docs/
